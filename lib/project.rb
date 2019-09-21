@@ -12,7 +12,7 @@ def backers
 end
 
 def add_project(backer)
-@@backers << 
+@@backers << backer
 end
 
 end
