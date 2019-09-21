@@ -13,7 +13,7 @@ end
 
 def back_project(project) 
 @backed_projects << project
-project.bakcers << self
+project.add_bakcer << self
 end
 
 
