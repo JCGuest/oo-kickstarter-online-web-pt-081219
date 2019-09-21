@@ -11,8 +11,8 @@ def backed_projects
 @@backed_projects
 end
 
-def back_project(Project) 
-@@bakced_projects << Project
+def back_project(project) 
+@@bakced_projects << project
 end
 
 
