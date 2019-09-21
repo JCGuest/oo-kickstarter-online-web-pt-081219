@@ -13,7 +13,7 @@ end
 
 def add_backer(backer)
 @@backers << backer
-backer.backed_projects(self)
+backer.backed_project(self)
 end
 
 end
