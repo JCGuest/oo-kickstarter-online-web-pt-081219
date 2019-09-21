@@ -12,7 +12,7 @@ def backed_projects
 end
 
 def back_project(project) 
-@@bakced_projects << project
+@@backed_projects << project
 end
 
 
