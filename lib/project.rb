@@ -11,4 +11,8 @@ def backers
 @@backers
 end
 
+def add_project(backer)
+@@backers << 
+end
+
 end
