@@ -1,6 +1,6 @@
 class Project
 attr_reader :title
-@@backed_projects = []
+#@@backed_projects = []
 
 def initialize(title)
 @title = title
