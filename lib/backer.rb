@@ -8,6 +8,9 @@ def initialize(name)
 @@backed_projects << self
 end
 
+def backed_projects
+@@backed_projects
+end
 
 
 
